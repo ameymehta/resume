@@ -1,0 +1,154 @@
+{
+	"bio": { 
+		"firstName": "Amey", 
+		"lastName": "Mehta", 
+		"email": {
+			"personal": "ameymehta@gmail.com"
+		},
+		"phone": {
+			"personal": "972-834-8837"
+		},
+		"summary": "Result-oriented Software Developer with broad technical skill set and strong educational background. Dynamic career and a track record of working in agile software development methodologies and environment with object oriented approaches. Good analytical and problem solving abilities.",
+		"location": { 
+			"city": "Vienna", 
+			"countryCode": "US",
+			"state": "Virginia"
+		},
+		"profiles": {
+			"twitter": "ameymehta",
+			"github": "ameymehta"
+		}
+	},
+	"work": [{ 
+		"company": "MicroStrategy",
+		"position": "Enterprise Applications Developer",
+		"website": "microstrategy.com",
+		"startDate": "1336179661000",
+		"summary": "Working on diverse facets of Enterprise Applications and Service development, encompassing analysis, design, development, and execution. Responsible for providing efficient and innovative software solutions to business needs in marketing and sales.",
+		"highlights": [
+			"Working in an Agile Software Development environment (Scrum Methodology with biweekly sprints)",
+			"Initiated a weekly learning session where people would come-up to discuss and share new ideas, technologies and innovative solutions. It kept every team member updated with new technologies and also helped strengthening the team bonding.",
+			"EmailAPI: Single handedly designed, developed and deployed RESTful web service for sending automated emails. It is used across various enterprise applications and it significantly reduces duplication of efforts.",
+			"Admin Interface for Mobile Apps: Designed, developed and deployed web-based admin interface with MVC architecture to help business users manage mobile apps conveniently.",
+			"Billing Gateway: Worked with a team on several sprints to develop web service for billing and invoicing of cloud based enterprise applications and paid services.",
+			"Paid Events: Contributed by implementing complex business logic for Promo Codes and Revenue Calculations. Developed web services for the billing and invoicing of MicroStrategy events registrations.",
+			"Marketing Applications: Analyzed various design and architectural issues in the MicroStrategy Marketing systems and resolved them in accordance with current procedures and added requirements.",
+			"Education website: Worked with a team on several sprints to design and develop Education website that enables users to view available courses, view their catalogs and register for courses.",
+			"Technologies: .Net, C sharp (C#), Microsoft SQL Server, T-SQL, MVC5, WebAPI2, ASP.Net, JQuery, Bootstrap, Zuora, log4net, Microsoft Visual Studio"
+		]
+	},
+	{ 
+		"company": "IBM",
+		"position": "Software Engineer (Intern)",
+		"website": "ibm.com",
+		"startDate": "1323046861000",
+		"endDate": "1336179661000",
+		"summary": "Worked with a team to design, develop and maintain modules of Telecommunication Expense Management software Rivermine",
+		"highlights": [
+			"Under the guidance of a mentor, learned with hands-on experience about various phases of Software Development Lifecycle like planning, requirement gathering, design, development, testing and maintenance",
+			"Used Hibernate and iPersistence Services to create ORM between the business objects, roles and database tables",
+			"Technologies: JDK 1.5/1.6, J2EE, Echo2 AJAX Platform, Hibernate2, JUnit, Lucene, XML, DOM, Tomcat Apache, JSP, Java Servlets, EJBs, HTML, CSS, Java Scripts, Oracle 10g, DB2, MySQL, PL-SQL, Unix, Eclipse, SVN, Jira, MS Office"
+		]
+	},
+	{ 
+		"company": "FBR Capital Markets",
+		"position": "Jr. Database Developer (Intern)",
+		"website": "fbr.com",
+		"startDate": "1307235661000",
+		"endDate": "1312506061000",
+		"summary": "",
+		"highlights": [
+			"Generated Data Reports using SQL Server Reporting Services (SSRS)",
+			"Designed, developed, and maintained Microsoft SQL Server database schemas and scripts, including views, triggers and stored procedures",
+			"IDEs, Frameworks and Tools: Microsoft SQL Server, Microsoft Business Intelligence Development Studio, Microsoft SQL Server Reporting Services, Microsoft Visual Studio, TortoiseSVN"
+
+		]
+	}
+	],
+	"education": [{ 
+		"institution": "George Mason University",
+		"area": "Information Systems",
+		"studyType": "Masters of Science",
+		"startDate": "1280970061000",
+		"endDate": "1323046861000",
+		"courses": [
+			"Data Minining"
+		]
+	},
+	{ 
+		"institution": "University of Pune",
+		"area": "Information Technology",
+		"studyType": "Bachelor of Engineering",
+		"startDate": "1123203661000",
+		"endDate": "1241485261000",
+		"courses": [
+			"Data Minining"
+		]
+	}
+	],
+	"awards": [{
+		"title": "MicroStrategy Certified Platinum Developer",
+		"awardDate": "1396591325000",
+		"awarder": "MicroStrategy"
+	},
+	{
+		"title": "Cloudera Certified Developer for Apache Hadoop",
+		"awardDate": "1370325725000",
+		"awarder": "Cloudera"
+	},
+	{
+		"title": "Graduate Certificate for Database Management",
+		"awardDate": "1323046861000",
+		"awarder": "George Mason University"
+	}
+	],
+	"skills": [
+	{
+		"name": "Languages",
+		"keywords": [
+			"C#",
+			"Java",
+			"JavaScript"
+		]
+	},
+	{
+		"name": "Web Development",
+		"keywords": [
+			"AngularJS",
+			"JQuery",
+			"Bootstrap",
+			"BackboneJS",
+			"SASS"
+		]
+	},
+	{
+		"name": "Frameworks",
+		"keywords": [
+			"ASP.NET",
+			"WebAPI",
+			"MVC5",
+			"Hadoop"
+		]
+	},
+	{
+		"name": "Database",
+		"keywords": [
+			"Microsoft SQL Server",
+			"Oracle",
+			"MySQL"
+		]
+	},
+	{
+		"name": "IDEs and Tools",
+		"keywords": [
+			"Visual Studio",
+			"Git",
+			"Fiddler",
+			"Eclipse",
+			"Jira",
+			"SVN",
+			"Putty"
+		]
+	}
+	]
+}
