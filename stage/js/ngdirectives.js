@@ -8,10 +8,4 @@
 		};
 	});
 
-	amapp.directive('navBar', function(){
-		return {
-			restrict: 'E',
-			templateUrl: "partials/nav-bar.html"
-		};
-	});
 })();
