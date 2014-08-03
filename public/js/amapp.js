@@ -6,6 +6,7 @@
 			.when("/twitter", {templateUrl: 'partials/twitter-feed.html'})
 			.when("/instagram", {templateUrl: 'partials/instagram-feed.html'})
 			.when("/resume", {templateUrl: 'partials/resume.html'})
+			.when("/about", {templateUrl: 'partials/resume.html'})
 			.when("/", {templateUrl: 'partials/home.html'})
 			.otherwise({redirectTo: "/"});
 
